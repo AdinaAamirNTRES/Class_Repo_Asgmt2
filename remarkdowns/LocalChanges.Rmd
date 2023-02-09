@@ -9,5 +9,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ##Hello
-###This is Adina, I am making some local changes to the RStudio file so I push them to GitHub
+###This is Adina, I am making some local changes to the RStudio file so I can push them to GitHub
 ###Beep boop, I am not a rebot
